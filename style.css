@@ -1,0 +1,39 @@
+
+h1 {
+    color: blue;
+}
+
+* {
+    border: solid;
+}
+.header{
+background-color:aquamarine;
+display:flex;
+justify-content:space-between;
+}
+
+.menu{
+background-color: rgb(229, 198, 236);
+display: flex;
+justify-content:space-between;
+}
+
+body{
+    margin: 0px;
+    background-color: azure;
+}
+.Image{
+background-color:rgb(170, 223, 224);
+display:flex;
+flex-wrap:wrap;
+padding: 20px;
+
+
+}
+
+.Image1{
+    background-color:rgb(233, 209, 173);
+    display:flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    }
